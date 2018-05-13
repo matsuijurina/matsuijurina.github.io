@@ -1,0 +1,51 @@
+body {
+}
+
+.list-group, .list-group-flush, .list-group-item {
+    background: transparent;
+}
+
+.header .banner {
+    margin-bottom: 10px;
+}
+
+.site-main .fragment {
+    padding: 10px;
+}
+
+.site-main .title {
+    font-size: 24pt;
+    margin-bottom: 10px;
+    border-bottom: 3px solid black;
+}
+
+.bio-fragment {
+    margin-bottom: 0.8rem;
+}
+
+.bio-fragment .bio-fragment-title {
+    background: #F5F5F5;
+    font-size: 15pt;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding-left: 0.4rem;
+    font-weight: bold;
+}
+
+.site-sidebar {
+}
+
+/*
+ * Footer
+ */
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+
+.blog-footer p:last-child {
+    margin-bottom: 0;
+}
